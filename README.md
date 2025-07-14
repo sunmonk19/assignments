@@ -6,6 +6,6 @@ print gives desired output
 
 
 
-#personal greeting
+#personal greeting/n
 #a variable takes the first name and b variable take the second name 
 print concates both and prints personal greeting 
